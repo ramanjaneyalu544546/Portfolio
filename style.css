@@ -17,7 +17,7 @@
   
   .about-section {
     padding: 60px 0;
-    background-image: url('images/bck6.png');
+    background-image: url('bck6.png');
     background-size: cover;
     background-position: center;
     
@@ -30,7 +30,7 @@
     padding: 60px 0;
     background-color: #f8f9fa; 
     text-align: center;
-    background-image: url('images/bck8.png'); 
+    background-image: url('bck8.png'); 
   }
  
   .skills-images {
